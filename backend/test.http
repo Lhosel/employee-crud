@@ -1,0 +1,8 @@
+PUT http://localhost:9000/api/v1/employees/0
+Content-Type: application/json
+
+{
+    "firstName": "Editted",
+    "lastName": "Object",
+    "emailId": "editted@gbc.ca"
+}

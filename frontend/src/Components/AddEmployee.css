@@ -1,0 +1,17 @@
+.center-text { 
+    text-align: center;
+}
+
+.btn-style {
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-style-view {
+    margin-right: 10px;
+}
